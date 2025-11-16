@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "prodev-mobile-app-0x04",
-    "slug": "prodev-mobile-app-0x04",
+    "name": "fffolder",
+    "slug": "fffolder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "prodevmobileapp0x04",
+    "scheme": "fffolder",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
